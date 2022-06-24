@@ -1,0 +1,91 @@
+html {
+  background-image:url('https://i.pinimg.com/originals/71/29/66/712966970c6811e20ea2aa604b77cf59.gif');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  color: #e6ded7;
+  font-size: 35px;
+  font-weight: 5000;
+  text-align: center;
+  text-shadow: 3px 3px #02466edd;
+}
+
+
+p {
+  color:hwb(58 74% 11% / 0.893);
+  text-shadow: 2px 1px #02466edd;
+}
+
+#input-field {
+  display: block;
+  height: 22px;
+  width: 300px;
+  margin: 0 auto 25px auto;
+  border-radius: 10px;
+  outline:none;
+  color: #7c4d23;
+}
+
+#search-btn {
+  border-radius: 13px;
+  border: none;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #faf6f5;
+  text-shadow: 1px 1px #02466edd;
+  padding: 7px 10px;
+  cursor: pointer;
+  background-image: linear-gradient(to left, #ffb5e8, #b28dff, #dcd3ff,  #ffc9de, #6eb5ff);
+}
+
+#image-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+  
+}
+
+.film-image {
+  width: calc(11% - 2rem) ;
+  margin: 5px 5px 5px 5px;
+  border-radius: 5px;
+  border: 2px solid rgb(50, 50, 50);
+  cursor: pointer;
+}
+
+#movie-image {
+  display: block;
+  height: 457px;
+  margin: 0 auto 25px auto;
+  margin-top: 40px;
+  border-radius: 4px;
+  border: 2px solid rgb(50, 50, 50);
+}
+
+#movie-detail{
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  background-color: antiquewhite;
+  opacity: 0.75;
+  width: 690px;
+  margin: 0 auto 25px auto;
+  padding:50px;
+}
+  
+#description {
+  color:#2b1b0d;
+  text-shadow: none;
+}
+
+
+
+
+  
