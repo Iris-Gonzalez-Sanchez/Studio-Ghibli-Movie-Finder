@@ -32,6 +32,10 @@ This webpage is for those newly interested in Studio Ghibli films and long-time 
 ### 4. Clear the search bar to see all films in the forefront of the page
 
 
-<!-- ## Video Walkthrough (GIF) -->
+## Video Walkthrough (GIF)
+  - (<a href="https://www.loom.com/share/197f518ec58e45d3b0d13232ff40e2fd">
+    <p>Studio Ghibli Movie App by Iris Gonzalez Sanchez - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/197f518ec58e45d3b0d13232ff40e2fd-with-play.gif">
+  </a>) 
 
 

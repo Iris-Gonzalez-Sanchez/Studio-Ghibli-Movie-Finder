@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () =>{
 
-    fetch('https://ghibliapi.herokuapp.com/films')
+    fetch('http://localhost:3000/films')
     .then(response =>response.json())
     .then(data => {
         renderMovieImages(data)
