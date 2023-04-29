@@ -2,6 +2,11 @@
 
 This webpage is for those newly interested in Studio Ghibli films and long-time fans alike. It is a Studio Ghibli movie selector based on users' search bar inputs.
 
+## How to Open Locally
+
+1. open index.html
+2. json-server --watch films-db.json
+
 ## Core Deliverables
 
 ### 1. Use 3 Unique Event Listeners:
