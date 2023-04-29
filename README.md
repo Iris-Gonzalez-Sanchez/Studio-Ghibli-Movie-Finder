@@ -40,7 +40,12 @@ This webpage is for those newly interested in Studio Ghibli films and long-time 
 
 ## Video Walkthrough (LINK)
 
-- <a href="https://www.loom.com/share/197f518ec58e45d3b0d13232ff40e2fd">
+<!-- - <a href="https://www.loom.com/share/197f518ec58e45d3b0d13232ff40e2fd">
     <p>Studio Ghibli Movie App by Iris Gonzalez Sanchez - Watch Video</p>
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/197f518ec58e45d3b0d13232ff40e2fd-with-play.gif">
+  </a> -->
+
+   <a href="https://loom.com/share/3212367370604946b2d612cc187a6b7d">
+    <p>Studio Ghibli Movie App by Iris Gonzalez Sanchez - Watch Video</p>
+    <img style="max-width:300px;" src="https://loom.com/share/3212367370604946b2d612cc187a6b7d">
   </a>
