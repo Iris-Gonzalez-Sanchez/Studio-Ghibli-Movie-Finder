@@ -19,8 +19,12 @@ document.addEventListener("DOMContentLoaded", () => {
     completedForm = !completedForm;
     if (completedForm) {
       formContainer.style.display = "block";
+      document.querySelector("#text-question button").textContent =
+        "♢ Invisible ♢";
     } else {
       formContainer.style.display = "none";
+      document.querySelector("#text-question button").textContent =
+        "♦︎ Visible! ♦︎";
     }
   });
 
